@@ -4,6 +4,10 @@ Controller skins for [Delta](https://github.com/rileytestut/Delta), the retro ga
 ## Installation
 Download the appropriate skins and open them in the Files app to import them into Delta. For forks such as [Ignited](https://github.com/LitRitt/Ignited), you may need to utilize the Share menu to import the skins, since Delta takes priority over the `.deltaskin` file format.
 
+## Screenshots
+![](/screenshots/IMG_5218.PNG)
+![](/screenshots/IMG_5219.PNG)
+
 ## Features
 - Skins for NES, SNES, GBC, GBA, and DS
 - Consistent visual style crafted with official fonts and glyphs designed by Apple
