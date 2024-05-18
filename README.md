@@ -15,10 +15,6 @@ Download the appropriate skins and open them in the Files app to import them int
 - Quick access to fast-forward and menu buttons
 - Individual D-pad buttons to prevent unintended diagonal inputs
 
-## Features planned for future updates
-- N64 support
-- Swap button on the DS skin to change the maximized screen (will be added once Delta supports this feature)
-
 ## Notes
 These skins are designed for use with standard devices (iPhone 8, SE 2nd/3rd gen., etc.) in landscape mode. Currently, there are no plans to create skins for portrait mode, iPad, or edge-to-edge devices (iPhone X onwards).
 
